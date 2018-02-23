@@ -1,0 +1,454 @@
+body{
+
+}
+
+.mainmenu{
+	background: url('../img/jewelery.jpg') no-repeat scroll center center;
+	background-size:cover; 
+	min-height: 677px;
+}
+
+.mainmenu .edit{
+	  padding: 20px;
+  font-size: 40px;
+  color: #ededed;
+}
+
+.mainmenu h4{
+	color: #fff;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.menu ul{
+	text-align: right;
+	margin: 0;
+	padding: 0;
+
+}
+.menu ul li{
+	list-style: none;
+	display: inline;
+	
+	
+}
+.menu ul li a{
+	display: inline-block;
+	color: #fff;
+	font-size: 15px;
+	letter-spacing: 3px;
+	padding: 10px 15px;
+	transition: color 1.0s ease;
+    -webkit-transition: color 1.0s ease;
+}
+.menu ul li a:hover{
+
+	
+	color: #acacac;
+	text-decoration: none;
+}
+
+.menu ul li a i{
+
+}
+
+.xmjew{
+	text-transform: uppercase;
+	font-size: 18px;
+	letter-spacing: 2px;
+	padding-left: 10px;
+}
+
+.slider_txt{
+	text-align: left;
+	color: #fff;
+	margin-top: 200px;
+}
+
+.slider_txt h3{
+	margin-top: 10px;
+	font-size: 60px;
+}
+
+.slider_txt p{
+	font-size: 25px;
+}
+
+.border{
+	 margin-top: 45px;
+}
+
+.border ul {
+	text-align: left;
+	margin: 0;
+	padding: 0;
+}
+.border ul li{
+	list-style: none;
+	display: inline;
+}
+.border ul li a{
+
+	display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  padding: 17px 52px;
+  border: 2px solid #fff;
+  transition: background-color 0.8s ease;
+  -webkit-transition: background-color 0.8s ease;
+}
+.border ul li a:hover{
+	background-color: red;
+	text-decoration: none;
+	border: 2px solid red;
+	opacity: .7;
+}
+
+.history {
+	padding: 50px 0px;
+}
+
+.history h3{
+	text-align: left;
+	font-weight: bolder;
+	font-size: 48px;
+	color: #464646;
+	text-transform: uppercase;
+}
+
+.history p{
+	color: #8b8076;
+}
+
+.works{
+	background-color: #dfcfcf;	
+	padding: 50px 0px;
+}
+
+.works_txt{
+	text-align: center;
+}
+
+.works_txt h1{
+	color: #464646;
+	font-size: 30px;
+	font-weight: bolder;
+}
+.works_txt p{
+	color: #8b8076;
+}
+
+.works_description{
+	text-align: left;
+}
+
+.works_description h1{
+	font-size: 18px;
+}
+
+.works_description p{
+	font-size: 16px;
+}
+
+.works_description2nd h1{
+	font-size: 18px;
+}
+.works_description2nd p{
+	font-size: 16px;
+}
+
+
+.presentations{
+	padding: 50px 0px;
+}
+
+.presentations_stuffs h1{
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.presentations_stuffs p{
+	font-size: 18px;
+	color: #8b8076;
+}
+.presentation_img img{
+	width: 100%;
+}
+.border_presentation {
+	 margin-top: 45px;
+}
+
+.border_presentation  ul {
+	text-align: left;
+	margin: 0;
+	padding: 0;
+}
+.border_presentation  ul li{
+	list-style: none;
+	display: inline;
+
+}
+.border_presentation  ul li a{
+
+	display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  padding: 17px 52px;
+  border: 2px solid #fff;
+  	background-color: red;
+  /*--	border-radius: 5px; --*/
+  	  transition: background-color 0.8s ease;
+  -webkit-transition: background-color 0.8s ease;
+}
+.border_presentation  ul li a:hover{
+	background-color: #be2a2a;
+	text-decoration: none;
+	border: 2px solid #be2a2a;
+/*--	border-radius: 5px; --*/
+	
+}
+
+.why{
+	padding: 100px 0px;
+}
+
+.why_txts h1{
+	font-weight: bolder;
+	font-size: 48px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+    padding: 20px
+}
+
+.why_txts h3{
+	font-size: 18px;
+}
+.why_txts p{
+	font-size: 16px;
+}
+
+.our_jewel{
+	padding: 50px 0px;
+}
+
+.jewel_img img{
+	width: 100%;
+}
+
+.jewel_texts{
+	padding: 50px 0px;
+}
+
+.jewel_texts p{
+	font-size: 16px;
+}
+
+.jewel_custom1{padding-right: 55px;}
+.jewel_custom2{padding-left: 55px;}
+
+.our_jewel_p p{
+	font-size: 48px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	    padding-top: 86px;
+    padding-left: 55px;
+}
+
+
+.comments{
+	padding: 50px 0px;
+}
+
+.customers_upper{
+	text-align: center;
+}
+
+.customers_upper h1{
+	font-size:30px; 
+	color:#000;
+	font-weight: bolder;
+}
+.customers_upper p{
+	font-size:18px; 
+	color:#8b8076;
+}
+
+.customers_lower img{
+	width: 
+}
+
+.our_photoblog{
+	padding: 100px 0px;
+}
+
+.photoblog_img img{
+	width: 100%;
+}
+
+.photoblog_texts{
+	padding: 50px 0px;
+}
+
+.photoblog_texts p{
+	font-size: 16px;
+}
+
+.photoblog_custom1{padding-right: 55px;}
+.photoblog_custom2{padding-left: 55px;}
+
+.our_photoblog_p p{
+	font-size: 48px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	    padding-top: 86px;
+    padding-left: 55px;
+}
+
+/*---------- Footer ----------*/
+
+footer{
+	background-color: #141414;
+	padding: 70px 0px;
+}
+
+.social-icons{
+	
+}
+
+.social-icons ul {
+		padding: 0px;
+	
+		margin-top: 20px;
+}
+
+.social-icons ul li{
+	list-style: none;
+	display: inline-block;
+	float: left;
+}
+
+
+.first-set .social-icons ul li a{
+	color: #474747;
+	font-size: 30px;
+}
+
+.social-icons ul li:first-child{
+	margin-right: 15px;
+}
+
+.social-icons ul li:nth-child(2){
+	margin-right: 15px;
+}
+
+.social-icons ul li:nth-child(3){
+	margin-right: 15px;
+}
+
+
+.social-icons ul li:last-child{
+	margin-right: 15px;
+}
+
+.footer-lists ul{
+	padding: 0px;
+	margin-top: 50px;
+}
+.footer-lists ul li {
+	list-style: none;
+}
+.footer-lists ul li a{
+	color: #474747;
+	transition: 1.0s ease;
+    -webkit-transition: 1.0s ease;
+}
+
+.footer-lists ul li a:hover{
+	text-decoration: underline;
+	color: #fff;
+}
+
+.first-set h1{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #fff;
+	font-size: 24px;
+}
+
+.copy{
+	text-align: right;
+}
+.copy p{
+	margin-top: 40px;
+}
+
+/*Contact */
+
+.contact{
+	text-align: center;
+
+}
+
+.contact  form{
+	background: #e3e3e3; 
+		padding: 1em 2em; 
+		position: relative;
+}
+
+.contact form span{
+
+    font-weight: bolder;
+    text-align: right;
+    position: relative;
+    cursor: pointer;
+    float: right;
+    bottom: 10px
+}
+
+.contact form > ul > li{
+	list-style: none;
+}
+
+.contact form ul{
+	padding: 0;
+	margin: 0;
+}
+
+.contact h1{
+	
+}
+.contact p{
+	margin: 25px 0px;
+}
+
+.contact button{
+	background-color: #ff3333;
+    border: none;
+    color: #ededed;
+    padding: 10px 50px;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.top a{
+	float: right;
+    text-decoration: none;
+    color: #fff;
+    background-color: #444;
+    padding: 15px 22px;
+    text-transform: uppercase;
+}
+
+/*Contact END*/
+/*------ Helper class---------*/
+.nopadleft{
+	padding-left: 0px;
+}
+
+.nopad{
+	padding: 0px;
+}
+
+
